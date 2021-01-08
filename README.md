@@ -9,9 +9,9 @@ Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'
 - [SWE Advice](#swe-advice)
 
 ## Introduction
-<img src="./headshot3.png" alt="Pic of me!" />
+<img src="headshot.png" alt="Pic of me!" />
 
-[Source (Relative Link)](./headshot.jpg)
+[Source (Relative Link)](headshot.png)
 
 Hey! I'm Andy Young, a second year Computer Engineering major from Honolulu, Hawaii! I've been programming as a hobby since my freshman year of high school and am lucky to have gained a lot of software and web development experiences and skills as a result. I'm very grateful to be able to pursue my passion as a career and solve all interesting problems the field has to offer.
 
