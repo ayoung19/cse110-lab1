@@ -61,10 +61,12 @@ return dp[target]
 You probably can't, and neither can I! If there were a bug in it I honestly wouldn't be able to find, let alone fix it. I went through a phase of over optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My one advice to anyone who reads this and doesn't already is ***COMMENT!***
 
 ## Links
-Well that's sadly all I have left for this page. If for whatever reason you'd like to learn more about my technical projects, here are some links:
+Well that's sadly all I have left for this page. If for whatever reason you'd like to learn more about my technical projects or want to contact me, here are some links!
 
-| Site | URL |
+| Key | Value |
 | --- | --- |
 | Portfolio | [https://www.andyluyoung.com/](https://www.andyluyoung.com/) |
 | Github | [@ayoung19](https://github.com/ayoung19) |
 | LinkedIn | [https://www.linkedin.com/in/andy-young-327b17132/](https://www.linkedin.com/in/andy-young-327b17132/) |
+| Email | [a7young@ucsd.edu](mailto:a7young@ucsd.edu)
+| Phone | [(808) 218-8306](tel:+1808-218-8306)
