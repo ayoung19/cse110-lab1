@@ -65,6 +65,6 @@ Well that's sadly all I have left for this page. If for whatever reason you'd li
 
 | Site | URL |
 | --- | --- |
-| Portfolio | https://www.andyluyoung.com/ |
-| Github | @ayoung19 |
-| LinkedIn | https://www.linkedin.com/in/andy-young-327b17132/ |
+| Portfolio | [https://www.andyluyoung.com/](https://www.andyluyoung.com/) |
+| Github | [@ayoung19](https://github.com/ayoung19) |
+| LinkedIn | [https://www.linkedin.com/in/andy-young-327b17132/](https://www.linkedin.com/in/andy-young-327b17132/) |
