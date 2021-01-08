@@ -10,7 +10,7 @@ Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'
 - [Links](#links)
 
 ## Introduction
-<img src="headshot.png" alt="Pic of me!" />
+![Pic of me!](headshot.png)
 
 [Source (Relative Link)](headshot.png)
 
@@ -58,7 +58,7 @@ for i in range(1, len(dp)):
 return dp[target]
 ```
 
-You probably can't, and neither can I! If there were a bug in it I honestly wouldn't be able to find, let alone fix it. I went through a phase of over optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My one advice to anyone who reads this and doesn't already is ***COMMENT!***
+You probably can't, and neither can I! If there were a bug in it I honestly wouldn't be able to find, let alone fix it. I went through a phase of *over* optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My one advice to anyone who reads this and doesn't already is ***COMMENT!***
 
 ## Links
 Well that's sadly all I have left for this page. If for whatever reason you'd like to learn more about my technical projects or want to contact me, here are some links!
