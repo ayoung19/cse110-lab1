@@ -1,6 +1,6 @@
 # Andy's User Page
 
-<img src="./headshot.jpg" alt="Pic of me!" />
+<img src="./headshot2.png" alt="Pic of me!" />
 
 [Source (Relative Link)](headshot.jpg)
 
