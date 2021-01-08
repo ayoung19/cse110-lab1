@@ -1,11 +1,12 @@
 # About Me
+Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'll (happily) leave with a little more knowledge about me, Hawaii, and programming!
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Hawaii Food](#hawaii-food)
 - [New Year's Bucket List](#new-years-bucket-list)
-- [Comment!!!](#comment)
+- [SWE Advice](#swe-advice)
 
 ## Introduction
 <img src="./headshot3.png" alt="Pic of me!" />
@@ -37,7 +38,7 @@ Because of how badly I've personally responded to quarantine, instead of having 
 - [x] Refuse to eat junk food when tempted
 - [ ] Write a line of code in Haskell
 
-## Comment!!!
+## SWE Advice
 Here's a wise quote:
 
 > Code is read more often than it is written.
@@ -56,4 +57,4 @@ for i in range(1, len(dp)):
 return dp[target]
 ```
 
-You probably can't and neither can I and I'm the one who wrote it! If there were a bug in it would you be able to find, let alone fix it? I went through a phase of over optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My advice to anyone who sees this who doesn't know already is don't do what I did!
+You probably can't and neither can I and I'm the one who wrote it! If there were a bug in it would you be able to find, let alone fix it? I went through a phase of over optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My one advice to anyone who reads this and doesn't already is ***COMMENT!***
