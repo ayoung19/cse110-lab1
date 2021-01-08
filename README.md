@@ -69,4 +69,4 @@ Well that's sadly all I have left for this page. If for whatever reason you'd li
 | Github | [@ayoung19](https://github.com/ayoung19) |
 | LinkedIn | [https://www.linkedin.com/in/andy-young-327b17132/](https://www.linkedin.com/in/andy-young-327b17132/) |
 | Email | [a7young@ucsd.edu](mailto:a7young@ucsd.edu)
-| Phone | [(808) 218-8306](tel:+1808-218-8306)
+| Phone | [(808) 218-8306](tel:+1808-218-8306) |
