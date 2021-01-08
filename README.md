@@ -1,5 +1,5 @@
 # About Me
-Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'll (happily) leave with a little more knowledge about me, Hawaii, and programming!
+Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'll (happily) leave with a little more knowledge about me, Hawaii, or programming!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -7,6 +7,7 @@ Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'
 - [Hawaii Food](#hawaii-food)
 - [New Year's Bucket List](#new-years-bucket-list)
 - [SWE Advice](#swe-advice)
+- [Links](#links)
 
 ## Introduction
 <img src="headshot.png" alt="Pic of me!" />
@@ -31,7 +32,7 @@ Enough with the programming stuff, here are my top 5 favorite places to eat in H
 5. ~~*Waiola Shave Ice*~~ *Matsumoto Shave Ice*
 
 ## New Year's Bucket List
-Because of how badly I've personally responded to quarantine, instead of having a list of New Year's resolutions, I have a very low-expectation bucket list that'll hopefully help push me to getting my life back together:
+Because of how badly I've personally responded to quarantine, instead of having a list of New Year's resolutions, I have a very low-expectation bucket list for this year that'll hopefully help push me to getting my life back together:
 - [x] Attend a remote class
 - [ ] Surf
 - [ ] Go to the gym
@@ -57,4 +58,13 @@ for i in range(1, len(dp)):
 return dp[target]
 ```
 
-You probably can't and neither can I and I'm the one who wrote it! If there were a bug in it would you be able to find, let alone fix it? I went through a phase of over optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My one advice to anyone who reads this and doesn't already is ***COMMENT!***
+You probably can't, and neither can I! If there were a bug in it I honestly wouldn't be able to find, let alone fix it. I went through a phase of over optimizing everything while not commenting, wrongly thinking that less lines of code = cleaner which bit me in the ass enough for me to stop that habit. My one advice to anyone who reads this and doesn't already is ***COMMENT!***
+
+## Links
+Well that's sadly all I have left for this page. If for whatever reason you'd like to learn more about my technical projects, here are some links:
+
+| Site | URL |
+| --- | --- |
+| Portfolio | https://www.andyluyoung.com/ |
+| Github | @ayoung19 |
+| LinkedIn | https://www.linkedin.com/in/andy-young-327b17132/ |
