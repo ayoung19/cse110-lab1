@@ -1,5 +1,5 @@
 # About Me
-Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'll (happily) leave with a little more knowledge about me, Hawaii, or programming!
+Welcome to my user page for the CSE 110 Lab 1 assignment made with `gh-pages` in WI21! Hopefully you'll (happily) leave with a little more knowledge about me, Hawaii, or programming!
 
 ## Table of Contents
 - [Introduction](#introduction)
