@@ -5,6 +5,7 @@ Welcome to my user page for the CSE 110 Lab 1 assignment in WI21! Hopefully you'
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Hawaii Food](#hawaii-food)
+- [Video Games](#video-games)
 - [New Year's Bucket List](#new-years-bucket-list)
 - [SWE Advice](#swe-advice)
 - [Links](#links)
@@ -25,11 +26,18 @@ Since there are requirements I have to fill for this assignment, I figured I cou
 
 ## Hawaii Food
 Enough with the programming stuff, here are my top 5 favorite places to eat in Hawaii (this list changes frequently):
-1. *Off the Hook* (Poke)
-2. *Kam Bowl* (Oxtail Soup)
-3. *Mitch's Fish Market* (Sashimi, Obama Approved)
-4. *Giovanni's Shrimp Truck*
-5. ~~*Waiola Shave Ice*~~ *Matsumoto Shave Ice*
+1. Off the Hook (Poke)
+2. Kam Bowl (Oxtail Soup)
+3. Mitch's Fish Market (Sashimi, Obama Approved)
+4. Giovanni's Shrimp Truck
+5. ~~Waiola Shave Ice~~ Matsumoto Shave Ice
+
+## Video Games
+To demonstrate unordered lists, here are some video games that I like to play!
+- *League of Legends*
+- *Counter Strike: Global Offensive*
+- *Valorant*
+- *Stardew Valley*
 
 ## New Year's Bucket List
 Because of how badly I've personally responded to quarantine, instead of having a list of New Year's resolutions, I have a very low-expectation bucket list for this year that'll hopefully help push me to getting my life back together:
